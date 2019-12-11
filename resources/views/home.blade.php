@@ -33,7 +33,7 @@
         }
         </script>
 
-        <title>Welcome</title>
+        <title>Home</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -107,7 +107,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome
+                    Home
                 </div>
 
                 <div class="links">
